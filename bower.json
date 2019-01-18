@@ -1,0 +1,21 @@
+{
+  "name": "tech_exam_2",
+  "authors": [
+    "Edison <edisontrupa1114@gmail.com>"
+  ],
+  "description": "technical exam for you_source",
+  "main": "index.php",
+  "keywords": [
+    "tech",
+    "exam"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
